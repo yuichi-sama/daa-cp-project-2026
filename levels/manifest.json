@@ -1,0 +1,17 @@
+[
+  { "id": "easy-1", "name": "Easy 1 - First Push", "difficulty": "easy", "filePath": "levels/easy/level1.txt", "boxCount": 1, "width": 4, "height": 6 },
+  { "id": "easy-2", "name": "Easy 2 - Around the Corner", "difficulty": "easy", "filePath": "levels/easy/level2.txt", "boxCount": 1, "width": 6, "height": 6 },
+  { "id": "easy-3", "name": "Easy 3 - Simple Slide", "difficulty": "easy", "filePath": "levels/easy/level3.txt", "boxCount": 1, "width": 6, "height": 5 },
+  { "id": "easy-4", "name": "Easy 4 - Two Boxes", "difficulty": "easy", "filePath": "levels/easy/level4.txt", "boxCount": 2, "width": 6, "height": 6 },
+  { "id": "easy-5", "name": "Easy 5 - Dual Push", "difficulty": "easy", "filePath": "levels/easy/level5.txt", "boxCount": 2, "width": 7, "height": 6 },
+  { "id": "medium-1", "name": "Medium 1 - Lined Up", "difficulty": "medium", "filePath": "levels/medium/level1.txt", "boxCount": 3, "width": 8, "height": 6 },
+  { "id": "medium-2", "name": "Medium 2 - Blocked Path", "difficulty": "medium", "filePath": "levels/medium/level2.txt", "boxCount": 3, "width": 8, "height": 6 },
+  { "id": "medium-3", "name": "Medium 3 - Open Field", "difficulty": "medium", "filePath": "levels/medium/level3.txt", "boxCount": 3, "width": 8, "height": 8 },
+  { "id": "medium-4", "name": "Medium 4 - Walls Within", "difficulty": "medium", "filePath": "levels/medium/level4.txt", "boxCount": 3, "width": 8, "height": 6 },
+  { "id": "medium-5", "name": "Medium 5 - Triple Threat", "difficulty": "medium", "filePath": "levels/medium/level5.txt", "boxCount": 3, "width": 8, "height": 6 },
+  { "id": "hard-1", "name": "Hard 1 - Corridor Maze", "difficulty": "hard", "filePath": "levels/hard/level1.txt", "boxCount": 4, "width": 9, "height": 7 },
+  { "id": "hard-2", "name": "Hard 2 - Stacked", "difficulty": "hard", "filePath": "levels/hard/level2.txt", "boxCount": 4, "width": 9, "height": 7 },
+  { "id": "hard-3", "name": "Hard 3 - Symmetric Cross", "difficulty": "hard", "filePath": "levels/hard/level3.txt", "boxCount": 4, "width": 9, "height": 8 },
+  { "id": "hard-4", "name": "Hard 4 - Central Pillar", "difficulty": "hard", "filePath": "levels/hard/level4.txt", "boxCount": 4, "width": 8, "height": 8 },
+  { "id": "hard-5", "name": "Hard 5 - Diamond", "difficulty": "hard", "filePath": "levels/hard/level5.txt", "boxCount": 4, "width": 8, "height": 8 }
+]

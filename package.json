@@ -1,0 +1,13 @@
+{
+  "name": "algorithmic-sokoban",
+  "private": true,
+  "scripts": {
+    "dev:server": "pnpm --filter server dev",
+    "dev:client": "pnpm --filter client dev",
+    "dev": "pnpm run dev:server & pnpm run dev:client",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "test:server": "pnpm --filter server test",
+    "test:shared": "pnpm --filter shared test"
+  }
+}
